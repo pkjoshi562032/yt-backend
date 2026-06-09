@@ -1,0 +1,13 @@
+node_modules
+.env
+
+dist
+
+# Optional: Ignore log files
+logs  
+
+# Optional: Ignore OS-specific files
+.DS_Store
+# Optional: Ignore IDE-specific files
+.vscode/
+.idea/
