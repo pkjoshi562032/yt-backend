@@ -1,0 +1,16 @@
+.vscode-test/
+out/
+dist/
+test-fixtures/
+node_modules/
+package-lock.json
+.vscode-test/
+.vscode-test-web/
+
+node_modules
+*.env
+.env
+.env.*
+
+./vscode
+./dist
